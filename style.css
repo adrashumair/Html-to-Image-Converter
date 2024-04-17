@@ -1,0 +1,10 @@
+.img-fluid{
+    height: 100% !important;
+}
+body{
+    background-color: brown;
+}
+span{
+    color:aquamarine ;
+    font-weight: bold;
+}
